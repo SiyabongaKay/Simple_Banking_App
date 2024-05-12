@@ -4,6 +4,7 @@ import java.util.UUID;
 
 public class Account {
     private UUID userID;
+    private UUID accountID;
     private String accountType;
     private int accountNumber;
     private double balance;
